@@ -18,9 +18,7 @@ You are expected to use the following interfaces:
 1. IShip.java 
 1. IPort.java 
 
-The class hierarchy that you must consider during the implementation is illustrated in the class diagram below: 
 
-![](Aspose.Words.66b8cf9b-1a88-48c0-ae84-c87d7fd2c5fa.001.jpeg)
 
 Main.java 
 
