@@ -11,9 +11,9 @@ public interface IShip {
 	 * 
 	 */
 	
-	boolean sailTo(Port p);
+	double sailTo(Port p);
 	
-	void reFuel(double newFuel);
+	double reFuel(double newFuel);
 	
 	boolean load(Container cont);
 	
